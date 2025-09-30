@@ -3,12 +3,56 @@
     "podcastName": "Joguei No Grupo",
     "episodio": "Terapia Coletiva Com Senhorita Bira",
     "videoId": "f0WWIpVvWqg",
-    "categoria": ["humor"]
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/ff9f43/black%3Ftext%3DJNG%2BBira",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Df0WWIpVvWqg%26t%3D1996s",
+    "categoria": ["humor", "entrevista"]
   },
   {
     "podcastName": "DE FRENTE COM BLOGUEIRINHA",
     "episodio": "DANILO DABAGUE",
     "videoId": "F3QP3wjMH-8",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/494949/white%3Ftext%3DDFCB%2BDanilo",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/live/F3QP3wjMH-8",
+    "categoria": ["entrevista"]
+  },
+  {
+    "podcastName": "Bem Estar Diário",
+    "episodio": "A Importância do Sono Profundo na Recuperação Muscular",
+    "videoId": "M2N3O4P5Q6R",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/6a8d6a/white%3Ftext%3DBem%2BEstar%2BSono",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DM2N3O4P5Q6R",
+    "categoria": ["saúde"]
+  },
+  {
+    "podcastName": "Saúde e Performance",
+    "episodio": "Mitos e Verdades sobre Suplementação para Atletas",
+    "videoId": "P9O8I7U6Y5T",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/76b7b2/black%3Ftext%3DSuplementacao",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DP9O8I7U6Y5T",
+    "categoria": ["saúde"]
+  },
+  {
+    "podcastName": "Café com o CEO",
+    "episodio": "Lições de Liderança e Gestão de Crises",
+    "videoId": "A1B2C3D4E5F",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/5c5c8e/white%3Ftext%3DMentalidade%2BLideranca",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DA1B2C3D4E5F",
+    "categoria": ["mentalidade", "entrevista"]
+  },
+  {
+    "podcastName": "Papo de Comediante",
+    "episodio": "O Processo Criativo do Stand-Up e a Quebra de Gelo",
+    "videoId": "QWERTYUIOP",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/a35f5f/white%3Ftext%3DComedia%2BCriacao",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DQWERTYUIOP",
+    "categoria": ["humor"]
+  },
+  {
+    "podcastName": "Conversa Sincera",
+    "episodio": "Por Dentro da Vida de um Youtuber de Viagens",
+    "videoId": "ZXCVBNM0L",
+    "cover": "https://www.google.com/search?q=https://placehold.co/480x360/2c3e50/white%3Ftext%3DEntrevista%2BViagens",
+    "link": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DZXCVBNM0L",
     "categoria": ["entrevista"]
   }
 ]
